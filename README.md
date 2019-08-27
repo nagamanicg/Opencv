@@ -1,6 +1,6 @@
 # Opencv
 OPENCV using Python
 
-##Dependencies
+## Dependencies
 - Python 2.7 or 3.5
 - Opencv 
